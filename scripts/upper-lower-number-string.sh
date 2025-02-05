@@ -12,7 +12,7 @@ number=0
 special=0
 
 read -p 'Enter your USERNAME: ' username
-
+read -s -p 'Enter your PASSWORD: ' password
 #echo "USERNAME: $username"
 
 echo "Length of username is: ${#username}"
