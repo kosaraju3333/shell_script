@@ -1,0 +1,7 @@
+# Jan 15 12:34:56 server sshd[1234]: Failed password for user admin from 192.168.1.18 port 22
+# Jan 15 12:35:06 server sshd[1234]: Failed password for user nurix from 192.168.2.10 port 23
+# …
+# #D$%REDhgvjk
+# Jan 15 12:44:15 server sshd[1234]: Successful login for user prod-admin from 192.172.7.1 port 80
+# Jan 15 12:44:50 server sshd[1234]: Failed password for user nurix-dev from 192.172.5.10 port 443
+# ##--
